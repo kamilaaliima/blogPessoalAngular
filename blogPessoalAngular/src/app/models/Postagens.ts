@@ -1,4 +1,4 @@
-import { Tema } from "./tema"
+import { Tema } from "./Tema"
 import { User } from "./User"
 
 
